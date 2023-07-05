@@ -1,0 +1,8 @@
+.login__bg {
+    background-image: url(https://media.istockphoto.com/id/1368088617/photo/woman-using-laptop-with-search-button.webp?b=1&s=170667a&w=0&k=20&c=pHe4rp_RHNnzjTVe_rmn-V008Z49PPnY5Yx8G_X6JWs=);
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}

@@ -1,0 +1,15 @@
+.home__bg {
+    background-image: url(https://media.istockphoto.com/id/1219700578/photo/womens-hand-typing-on-mobile-smartphone-live-chat-chatting-on-application-communication.jpg?s=612x612&w=0&k=20&c=kicLEFvRF3_wn_lSpbiKrxrUV6pJIwBRQOgrZChigQg=);
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.home-message-icon {
+    margin-left: 10px;
+    display: inline-block;
+}
+
+
